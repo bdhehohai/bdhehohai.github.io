@@ -29,7 +29,7 @@
 - 05/2016- 07/2017： 加拿大卡尔加里大学 (University of Calgary)，博士后。
 
 ​									导师 Henry Leung 教授，IEEE Fellow。
-
+ 
 - 02/2015- 03/2016：美国伊利诺伊大学香槟分校(UIUC) ，博士后。
 
   ​                                   导师 Zhipei Liang 教授， IEEE Fellow，AIMBE Fellow。
