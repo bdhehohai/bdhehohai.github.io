@@ -6,7 +6,8 @@
     <td width="75%">
       <h1>刘且根</h1>
       <p><b>教授/博导</b></p>
-      <p><b>南昌大学人工智能系副主任</b></p>
+      <p><b>人工智能系副主任</b></p>
+      <p><b>南昌大学</b></p>
       <p><b>办公室：信工楼A606</b></p>
       <p><b>邮箱：liuqiegen@ncu.edu.cn</b></p>
     </td>
@@ -131,12 +132,16 @@
 ### 部分论文
 
 [1] Q. Liu, H. Leung. Variable augmented neural network for decolorization and multi-exposure fusion,Information Fusion,vol. 46, pp.114-127, 2019. (SCI, JCR 1, IF: 13.67)
+
 [2] M. Zhang, M. Li, J. Zhou, Y, Zhu, S. Wang, D. Liang*, Y. Chen, Q. Liu*. High-dimensional embedding network derived prior for compressive sensing MRI reconstruction, Med. Image Anal., vol. 64, 101717, 2020. (SCI, JCR 1, IF: 11.148)
+
 [3] S. Li, B. Qin, Q. Liu*, Y. Wang, D. Liang*, Multi-channel and multi-model based autoencoding prior for grayscale image restoration, IEEE Trans. Image Process., vol. 29, 142-156, 2020. (SCI, JCR 1, IF: 9.34)
+
 [4] Q. Liu, Q. Yang, H. Cheng, S. Wang, M. Zhang, D. Liang*, Highly undersampled magnetic resonance imaging
-reconstruction using autoencoding priors, Magn. Reson. Med., vol. 83, no. 1, pp. 322-336, 2020. (SCI, JCR 1, IF: 3.8)
-[5] F. Zhang, M. Zhang, B. Qin, Y. Zhang, Z. Xu, D. Liang, Q. Liu*, REDAEP: Robust and enhanced denoising autoencodingprior for sparse-view CT reconstruction, IEEE Trans. Radiat. Plasma Med. Sci., 2020. (SCI, IF: 2.02)
+reconstruction using autoencoding priors, Magn. Reson. Med., vol. 83, no. 1, pp. 322-336, 2020. (SCI, JCR 1, IF: 3.8)*
+[5] F. Zhang, M. Zhang, B. Qin, Y. Zhang, Z. Xu, D. Liang, Q. Liu*, REDAEP: Robust and enhanced denoising autoencodingprior for sparse-view CT reconstruction, IEEE Trans. Radiat. Plasma Med. Sci., 2020. (SCI, IF: 2.02)*
 [6] Q. Liu, K. Yang, J. Luo, Y. Zhu, D. Liang. Highly undersampled magnetic resonance image reconstruction using two-levelBregman method with dictionary updating, IEEE Trans. Med. Imag., 32 (7): 1290-1301, 2013. (SCI, JCR1, IF: 7.82)
+
 [7] Q. Liu, D. Liang, Y. Song, J. Luo, Y. Zhu, W. Li. Augmented Lagrangian based sparse representation method with dictionary updating for image deblurring, SIAM J. Imag. Sci., 6 (3): 1689-1718, 2013. (SCI, JCR1, IF: 4.66)
 [8] Q. Liu, S. Wang, L. Ying, X. Peng, Y. Zhu, D. Liang. Adaptive dictionary learning in sparse gradient domain for image recovery, IEEE Trans. Image Process., 22(12): 4652-4663, 2013. (SCI, JCR 1, IF: 9.34)
 [9] Q. Liu, X. Liu, W. Xie, Y. Wang, D. Liang. GcsDecolor: Gradient correlation similarity for efficient contrast preserving decolorization, IEEE Trans. Image Process., 24(9): 2889-2904, 2015. (SCI, JCR 1, IF: 9.34)
